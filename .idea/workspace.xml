@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db2e6f1-8147-4f17-865f-bcea076d398b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="C:/xampp/storage" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1il2r0HLb3ejRsWHvSSzL7xVY54" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\tests\unit" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\tests" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\Extra" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\src\Offers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Laravel-Projects\MediaGate\FlexCart" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\tests" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK" />
+      <recent name="F:\Laravel-Projects\MediaGate\PHPTASK\src\Contracts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.CartTest.testAddItem">
+    <configuration name="CartTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\CartTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/unit/Cart/CartTest.php" scope="Class" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CartTest.testAddItem" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\CartTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/unit/Cart/CartTest.php" method="testAddItem" scope="Method" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CartTest.testBasicTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\CartTest" file="$PROJECT_DIR$/tests/unit/Cart/CartTest.php" method="testBasicTest" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\ExampleTest" file="$PROJECT_DIR$/tests/unit/Cart/CartTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCase" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\TestCase" file="$PROJECT_DIR$/tests/TestCase.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.CartTest.testAddItem" />
+      <item itemvalue="PHPUnit.CartTest" />
+      <item itemvalue="PHPUnit.CartTest.testBasicTest" />
+      <item itemvalue="PHPUnit.ExampleTest" />
+      <item itemvalue="PHPUnit.TestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.CartTest" />
+        <item itemvalue="PHPUnit.CartTest.testBasicTest" />
+        <item itemvalue="PHPUnit.TestCase" />
+        <item itemvalue="PHPUnit.ExampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db2e6f1-8147-4f17-865f-bcea076d398b" name="Default Changelist" comment="" />
+      <created>1602468053402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602468053402</updated>
+      <workItem from="1602468054651" duration="4848000" />
+      <workItem from="1602500471567" duration="76000" />
+      <workItem from="1602500631999" duration="721000" />
+      <workItem from="1602501449128" duration="134000" />
+      <workItem from="1602507764777" duration="72000" />
+      <workItem from="1602509903060" duration="2228000" />
+      <workItem from="1602512164324" duration="401000" />
+      <workItem from="1602512589651" duration="278000" />
+      <workItem from="1602512894342" duration="19000" />
+      <workItem from="1602546215798" duration="7854000" />
+      <workItem from="1602588524233" duration="399000" />
+      <workItem from="1602607994303" duration="10591000" />
+      <workItem from="1602640032863" duration="353000" />
+      <workItem from="1602640398818" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="init comment">
+      <created>1602640153606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602640153606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Extra/LaravelShoppingcart1" />
+      <path value="$PROJECT_DIR$/Extra/laracart" />
+      <path value="$PROJECT_DIR$/Extra/laravel-shopping-cart" />
+      <path value="$PROJECT_DIR$/Extra/laravelshoppingcart" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="init comment" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="180" key="#Inspections" timestamp="1602551372324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="180" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1602551372324" />
+    <state x="438" y="104" key="#Test_Frameworks" timestamp="1602554852224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="438" y="104" key="#Test_Frameworks/0.0.1920.1040@0.0.1920.1040" timestamp="1602554852224" />
+    <state x="410" y="164" width="1102" height="863" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602554865545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="164" width="1102" height="863" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602554865545" />
+    <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1602473238442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602473238442" />
+    <state x="763" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602548939239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602548939239" />
+    <state x="624" y="214" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602631684962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="214" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602631684962" />
+    <state x="465" y="0" key="CommitChangelistDialog2" timestamp="1602640152283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602640152283" />
+    <state x="688" y="229" key="FileChooserDialogImpl" timestamp="1602554854949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="229" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602554854949" />
+    <state width="1865" height="417" key="GridCell.Tab.0.bottom" timestamp="1602640006498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602588924416" />
+    <state width="1865" height="417" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006498" />
+    <state width="1865" height="417" key="GridCell.Tab.0.center" timestamp="1602640006490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="264" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602588924416" />
+    <state width="1865" height="417" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006490" />
+    <state width="1865" height="417" key="GridCell.Tab.0.left" timestamp="1602640006490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="264" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602588924416" />
+    <state width="1865" height="417" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006490" />
+    <state width="1865" height="417" key="GridCell.Tab.0.right" timestamp="1602640006490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="264" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602588924416" />
+    <state width="1865" height="417" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006490" />
+    <state width="1865" height="417" key="GridCell.Tab.1.bottom" timestamp="1602640006498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="417" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006498" />
+    <state width="1865" height="417" key="GridCell.Tab.1.center" timestamp="1602640006498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="417" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006498" />
+    <state width="1865" height="417" key="GridCell.Tab.1.left" timestamp="1602640006498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="417" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006498" />
+    <state width="1865" height="417" key="GridCell.Tab.1.right" timestamp="1602640006498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="417" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602640006498" />
+    <state x="629" y="157" key="NewPhpClassDialog" timestamp="1602473113766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="157" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602473113766" />
+    <state x="732" y="418" key="NewPhpFileDialog" timestamp="1602548392210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="418" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602548392210" />
+    <state x="344" y="76" key="SettingsEditor" timestamp="1602640405305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="76" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602640405305" />
+    <state x="614" y="198" width="684" height="665" key="StructurePopup" timestamp="1602632961371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="198" width="684" height="665" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1602632961371" />
+    <state x="594" y="157" width="732" height="726" key="find.popup" timestamp="1602470547348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="157" width="732" height="726" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602470547348" />
+    <state x="714" y="395" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602640384596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="395" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602640384596" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1602469344166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602469344166" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1602554328897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602500485942" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602554328897" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/unit/Cart/CartTest.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

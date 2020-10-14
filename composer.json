@@ -1,0 +1,24 @@
+{
+    "name": "ahmed1amen/flexcart",
+    "description": "Flexible Shopping Cart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Amen",
+            "email": "ahmed1amen.g@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ahmed1Amen\\FlexCart\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
